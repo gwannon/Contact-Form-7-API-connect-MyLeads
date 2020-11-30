@@ -1,0 +1,1409 @@
+2020-11-30 11:22:43|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:22:42"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:22:42",
+      "ActivityDueDate": "2020-11-30 11:22:42",
+      "ActivityStatusDate": "2020-11-30 11:22:42",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:26:23|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:26:22"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:26:22",
+      "ActivityDueDate": "2020-11-30 11:26:22",
+      "ActivityStatusDate": "2020-11-30 11:26:22",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:29:26|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:29:25"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:29:25",
+      "ActivityDueDate": "2020-11-30 11:29:25",
+      "ActivityStatusDate": "2020-11-30 11:29:25",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:30:06|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:30:05"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:30:05",
+      "ActivityDueDate": "2020-11-30 11:30:05",
+      "ActivityStatusDate": "2020-11-30 11:30:05",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:31:36|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:31:35"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:31:35",
+      "ActivityDueDate": "2020-11-30 11:31:35",
+      "ActivityStatusDate": "2020-11-30 11:31:35",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:31:56|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:31:56"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:31:56",
+      "ActivityDueDate": "2020-11-30 11:31:56",
+      "ActivityStatusDate": "2020-11-30 11:31:56",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:32:27|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:32:27"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:32:27",
+      "ActivityDueDate": "2020-11-30 11:32:27",
+      "ActivityStatusDate": "2020-11-30 11:32:27",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:33:27|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:33:26"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:33:26",
+      "ActivityDueDate": "2020-11-30 11:33:26",
+      "ActivityStatusDate": "2020-11-30 11:33:26",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:36:14|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:36:13"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:36:13",
+      "ActivityDueDate": "2020-11-30 11:36:13",
+      "ActivityStatusDate": "2020-11-30 11:36:13",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:36:52|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "SAPTEST",
+        "SecondLastName": "PAPTEST",
+        "FirstName": "NOMBRETEST",
+        "Salutation": "MR",
+        "Sex": "M",
+        "MobilePhone": "+34666666666",
+        "BusinessMobilePhone": "+34666666666",
+        "Email": "test@gmail.com",
+        "FiscalCode": "12345678Z",
+        "PreferredContactChannel": "MAIL"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:36:51"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:36:51",
+      "ActivityDueDate": "2020-11-30 11:36:51",
+      "ActivityStatusDate": "2020-11-30 11:36:51",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 11:56:03|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+        "LastName": "",
+        "SecondLastName": "",
+        "FirstName": "",
+        "MobilePhone": "",
+        
+        "Email": "",
+        
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 11:56:03"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 11:56:03",
+      "ActivityDueDate": "2020-11-30 11:56:03",
+      "ActivityStatusDate": "2020-11-30 11:56:03",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:01:44|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "Monclús ",
+      "SecondLastName": "Fernández",
+      "FirstName": "Jorge",
+      "MobilePhone": "",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:01:43"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:01:43",
+      "ActivityDueDate": "2020-11-30 12:01:43",
+      "ActivityStatusDate": "2020-11-30 12:01:43",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:01:49|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "Monclús ",
+      "SecondLastName": "Fernández",
+      "FirstName": "Jorge",
+      "MobilePhone": "",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:01:49"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:01:49",
+      "ActivityDueDate": "2020-11-30 12:01:49",
+      "ActivityStatusDate": "2020-11-30 12:01:49",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:02:36|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "Monclús ",
+      "SecondLastName": "Fernández",
+      "FirstName": "Jorge",
+      "MobilePhone": "",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:02:36"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:02:36",
+      "ActivityDueDate": "2020-11-30 12:02:36",
+      "ActivityStatusDate": "2020-11-30 12:02:36",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:06:30|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      "SecondLastName": "FERNÁNDEZ",
+      "FirstName": "JORGE",
+      "Salutation": "MR",
+      "Sex": "M",
+      "MobilePhone": "",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:06:29"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:06:29",
+      "ActivityDueDate": "2020-11-30 12:06:29",
+      "ActivityStatusDate": "2020-11-30 12:06:29",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:07:45|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      "SecondLastName": "FERNÁNDEZ",
+      "FirstName": "JORGE",
+      "Salutation": "MR",
+      "Sex": "M",
+      "MobilePhone": "",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:07:44"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:07:44",
+      "ActivityDueDate": "2020-11-30 12:07:44",
+      "ActivityStatusDate": "2020-11-30 12:07:44",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:08:53|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."],"Customer.MobilePhone":["The customer. mobile phone field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      "SecondLastName": "FERNÁNDEZ",
+      "FirstName": "JORGE",
+      "MobilePhone": "",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:08:52"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:08:52",
+      "ActivityDueDate": "2020-11-30 12:08:52",
+      "ActivityStatusDate": "2020-11-30 12:08:52",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:16:47|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:16:46"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:16:46",
+      "ActivityDueDate": "2020-11-30 12:16:46",
+      "ActivityStatusDate": "2020-11-30 12:16:46",
+      "Comments": "Comentarios lead 1",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:19:48|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:19:47"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:19:47",
+      "ActivityDueDate": "2020-11-30 12:19:47",
+      "ActivityStatusDate": "2020-11-30 12:19:47",
+      "Comments": "URL de origen del lead: ",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:20:42|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:20:41"
+    },
+    "Address": {
+        "StreetAddress": "Test",
+        "HouseNumber": "2",
+        "Town": "Test",
+        "ZipCode": "12345",
+        "Province": "LIC_PROVINCE_86",
+        "StreetAddressLine2": "P7 1B",
+        "StreetType": "CALLE"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:20:41",
+      "ActivityDueDate": "2020-11-30 12:20:41",
+      "ActivityStatusDate": "2020-11-30 12:20:41",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Brand": "Brand",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:24:44|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:24:43"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:24:43",
+      "ActivityDueDate": "2020-11-30 12:24:43",
+      "ActivityStatusDate": "2020-11-30 12:24:43",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Brand": "",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:28:01|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:28:00"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:28:00",
+      "ActivityDueDate": "2020-11-30 12:28:00",
+      "ActivityStatusDate": "2020-11-30 12:28:00",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Brand": "",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:28:37|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:28:36"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:28:36",
+      "ActivityDueDate": "2020-11-30 12:28:36",
+      "ActivityStatusDate": "2020-11-30 12:28:36",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Brand": "",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:28:47|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:28:46"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:28:46",
+      "ActivityDueDate": "2020-11-30 12:28:46",
+      "ActivityStatusDate": "2020-11-30 12:28:46",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Brand": "BMW",
+        "Series": "Series",
+        "ConstructionSeries": "CSeries",
+        "ModelCode":"MCode",
+        "Model":"Model"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:37:39|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:37:38"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:37:38",
+      "ActivityDueDate": "2020-11-30 12:37:38",
+      "ActivityStatusDate": "2020-11-30 12:37:38",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        
+        "Brand": "BMW",
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:39:47|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:39:47"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:39:47",
+      "ActivityDueDate": "2020-11-30 12:39:47",
+      "ActivityStatusDate": "2020-11-30 12:39:47",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:46:02|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      "SecondLastName": "FERNÁNDEZ",
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MR",
+      "Sex": "M"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:46:02"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:46:02",
+      "ActivityDueDate": "2020-11-30 12:46:02",
+      "ActivityStatusDate": "2020-11-30 12:46:02",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:47:26|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "",
+      "Sex": "F""
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:47:25"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:47:25",
+      "ActivityDueDate": "2020-11-30 12:47:25",
+      "ActivityStatusDate": "2020-11-30 12:47:25",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:48:13|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "",
+      "Sex": "F""
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:48:12"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:48:12",
+      "ActivityDueDate": "2020-11-30 12:48:12",
+      "ActivityStatusDate": "2020-11-30 12:48:12",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:50:55|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MRS",
+      "Sex": "F""
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:50:55"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:50:55",
+      "ActivityDueDate": "2020-11-30 12:50:55",
+      "ActivityStatusDate": "2020-11-30 12:50:55",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        "Model": "modelo de coche",
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:52:35|INSERTLEAD API ERROR|{"response":{},"message":{"OpportunityId":["OpportunityId incorrecto"],"FacilityBuno":["El campo FacilityBuno es obligatorio"],"Customer":["The customer field is required."],"Customer.LastName":["The customer. last name field is required."],"Customer.FirstName":["The customer. first name field is required."],"Customer.Salutation":["The customer. salutation field is required."],"Customer.Sex":["The customer. sex field is required."],"Customer.MobilePhone":["The customer. mobile phone field is required."],"Customer.Email":["The customer. email field is required."],"Consents":["The consents field is required."],"Consents.ConMKDealer":["The consents. con m k dealer field is required."],"Consents.ConAnaDealer":["The consents. con ana dealer field is required."],"Consents.ConMKNSC":["The consents. con m k n s c field is required."],"Consents.ConAnaNSC":["The consents. con ana n s c field is required."],"Consents.ConsentDate":["The consents. consent date field is required."],"Activity":["The activity field is required."],"Activity.ActivityStartDate":["The activity. activity start date field is required."],"Activity.ActivityDueDate":["The activity. activity due date field is required."],"Activity.ActivityStatusDate":["The activity. activity status date field is required."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MRS",
+      "Sex": "F""
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:52:34"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:52:34",
+      "ActivityDueDate": "2020-11-30 12:52:34",
+      "ActivityStatusDate": "2020-11-30 12:52:34",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        "Model": "modelo de coche",
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:53:05|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MRS",
+      "Sex": "F"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:53:04"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:53:04",
+      "ActivityDueDate": "2020-11-30 12:53:04",
+      "ActivityStatusDate": "2020-11-30 12:53:04",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        
+        "Model": "modelo de coche",
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:53:22|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MRS",
+      "Sex": "F"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:53:21"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:53:21",
+      "ActivityDueDate": "2020-11-30 12:53:21",
+      "ActivityStatusDate": "2020-11-30 12:53:21",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Series": "serie de coche",
+        "Model": "modelo de coche",
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:53:48|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MRS",
+      "Sex": "F"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:53:47"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:53:47",
+      "ActivityDueDate": "2020-11-30 12:53:47",
+      "ActivityStatusDate": "2020-11-30 12:53:47",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Series": "serie de coche",
+        "Model": "modelo de coche",
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
+2020-11-30 12:58:12|INSERTLEAD API ERROR|{"response":{},"message":{"FacilityBuno":["FacilityBuno no es v\u00e1lido."]}}|{
+    "OpportunityId": "MK-000080",
+    "FacilityBuno": "12345",
+    "Customer": {
+      "LastName": "MONCLÚS FERNÁNDEZ",
+      
+      "FirstName": "JORGE",
+      "MobilePhone": "629424220",
+      
+      "Email": "monclus.jorge@gmail.com",
+      "Salutation": "MRS",
+      "Sex": "F"
+    },
+    "Consents": {
+        "ConMKDealer": "Y",
+        "ConAnaDealer": "Y",
+        "ConMKNSC": "Y",
+        "ConAnaNSC": "Y",
+        "ConsentDate": "2020-11-30 12:58:11"
+    },
+    "Activity": {
+      "ActivityStartDate": "2020-11-30 12:58:11",
+      "ActivityDueDate": "2020-11-30 12:58:11",
+      "ActivityStatusDate": "2020-11-30 12:58:11",
+      "Comments": "URL de origen del lead: https://azti.enuttisworking.com/2021/wp-json/contact-form-7/v1/contact-forms/14/feedback",
+      "Product": {
+        "Series": "serie de coche",
+        "Model": "modelo de coche",
+        "Brand": "BMW"
+      }
+    }
+  }
+-------------------------------------
