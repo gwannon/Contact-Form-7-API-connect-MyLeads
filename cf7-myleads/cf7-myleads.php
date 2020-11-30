@@ -31,7 +31,16 @@ require_once(dirname(__FILE__)."/api.php");
 //Cargamos las funciones que crean las páginas en el WP-ADMIN
 require_once(dirname(__FILE__)."/admin.php");
 
+//CReamos un directorio al activar el plugin
+define( 'MY_LEADS_PLUGIN_FILE', __FILE__ );
+register_activation_hook(MY_LEADS_PLUGIN_FILE, 'beardbot_plugin_activation' );
 
+function beardbot_plugin_activation() {
+  if ( ! current_user_can( 'activate_plugins' ) ) return;
+  if(!is_dir(dirname(__FILE__)."/logs/")){
+    mkdir(dirname(__FILE__)."/logs/", 0755);
+  }
+}
 
 //HOOK de CF/
 add_action("wpcf7_before_send_mail", "wpcf7_do_my_leads");
@@ -42,16 +51,6 @@ function wpcf7_do_my_leads(&$wpcf7_data) {
 
   $submission = WPCF7_Submission::get_instance();
   $formdata = $submission->get_posted_data();
-
-  /*
-  Array
-  (
-      [your-name] => Jorge Monclús Fernández
-      [your-email] => monclus.jorge@gmail.com
-      [your-subject] => adfasdas
-      [your-message] => sadasdasd
-  )
-  */
   
   //Formato del JSON -------------------------------------------------------------------------
   $json = '{
