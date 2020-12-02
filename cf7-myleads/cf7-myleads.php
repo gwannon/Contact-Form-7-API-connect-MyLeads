@@ -33,9 +33,8 @@ require_once(dirname(__FILE__)."/admin.php");
 
 //CReamos un directorio al activar el plugin
 define( 'MY_LEADS_PLUGIN_FILE', __FILE__ );
-register_activation_hook(MY_LEADS_PLUGIN_FILE, 'beardbot_plugin_activation' );
-
-function beardbot_plugin_activation() {
+register_activation_hook(MY_LEADS_PLUGIN_FILE, 'cf7_myleads_plugin_activation' );
+function cf7_myleads_plugin_activation() {
   if ( ! current_user_can( 'activate_plugins' ) ) return;
   if(!is_dir(dirname(__FILE__)."/logs/")){
     mkdir(dirname(__FILE__)."/logs/", 0755);
@@ -86,9 +85,9 @@ function wpcf7_do_my_leads(&$wpcf7_data) {
     }
   }';
 
-  echo $json."\n------------------\n";
+  //echo $json."\n------------------\n";
   $response = insertLead($json);
-  print_r($response);
+  //print_r($response);
 }
 
 
