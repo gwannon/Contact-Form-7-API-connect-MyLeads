@@ -24,6 +24,7 @@ define('MY_LEADS_FACILITY_BUNO', get_option("_my_leads_facility_buno"));
 define('MY_LEADS_CFORMS', json_decode(get_option("_my_leads_cforms")));
 define('MY_LEADS_EMAIL', get_option("_my_leads_email"));
 define('MY_LEADS_BRAND', get_option("_my_leads_brand"));
+define('MY_LEADS_COMMENTS', get_option("_my_leads_comments"));
 
 //Cargamos librerías de conexión a la API
 require_once(dirname(__FILE__)."/api.php");
@@ -33,9 +34,8 @@ require_once(dirname(__FILE__)."/admin.php");
 
 //CReamos un directorio al activar el plugin
 define( 'MY_LEADS_PLUGIN_FILE', __FILE__ );
-register_activation_hook(MY_LEADS_PLUGIN_FILE, 'beardbot_plugin_activation' );
-
-function beardbot_plugin_activation() {
+register_activation_hook(MY_LEADS_PLUGIN_FILE, 'cf7_myleads_plugin_activation' );
+function cf7_myleads_plugin_activation() {
   if ( ! current_user_can( 'activate_plugins' ) ) return;
   if(!is_dir(dirname(__FILE__)."/logs/")){
     mkdir(dirname(__FILE__)."/logs/", 0755);
@@ -64,20 +64,21 @@ function wpcf7_do_my_leads(&$wpcf7_data) {
       '.($formdata['myleads-business-mobile-phone'] != '' ? '"BusinessMobilePhone": "'.$formdata['myleads-business-mobile-phone'].'",' : '').'
       "Email": "'.$formdata['myleads-business-email'].'",
       "Salutation": "'.$formdata['myleads-salutation'][0].'",
-      "Sex": "'.($formdata['myleads-salutation'][0] == 'MR' ? "M" : "F").'"
+      "Sex": "'.($formdata['myleads-salutation'][0] == 'MR' ? "M" : "F").'",
+      "PreferredContactChannel": "'.$formdata['myleads-contact-form'][0].'" 
     },
     "Consents": {
-        "ConMKDealer": "Y",
-        "ConAnaDealer": "Y",
-        "ConMKNSC": "Y",
-        "ConAnaNSC": "Y",
+        "ConMKDealer": "'.($formdata['myleads-conmkdealer'] == '1' ? "Y" : "N").'",
+        "ConAnaDealer": "'.($formdata['myleads-conanadealer'] == '1' ? "Y" : "N").'",
+        "ConMKNSC": "'.($formdata['myleads-conmknsc'] == '1' ? "Y" : "N").'",
+        "ConAnaNSC": "'.($formdata['myleads-conanansc'] == '1' ? "Y" : "N").'",
         "ConsentDate": "'.date("Y-m-d H:i:s").'"
     },
     "Activity": {
       "ActivityStartDate": "'.date("Y-m-d H:i:s").'",
       "ActivityDueDate": "'.date("Y-m-d H:i:s").'",
       "ActivityStatusDate": "'.date("Y-m-d H:i:s").'",
-      "Comments": "URL de origen del lead: https://' . $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"] . '",
+      "Comments": "' . MY_LEADS_COMMENTS . '",
       "Product": {
         '.($formdata['myleads-product-series'] != '' ? '"Series": "'.$formdata['myleads-product-series'].'",' : '').'
         '.($formdata['myleads-product-model'] != '' ? '"Model": "'.$formdata['myleads-product-model'].'",' : '').'
@@ -85,10 +86,11 @@ function wpcf7_do_my_leads(&$wpcf7_data) {
       }
     }
   }';
-
-  echo $json."\n------------------\n";
+  
+  //echo $json."\n----------------------------\n";
+  //print_r($formdata);
   $response = insertLead($json);
-  print_r($response);
+  //print_r($response);
 }
 
 

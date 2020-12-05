@@ -27,7 +27,7 @@ function insertLead($payload_data) { //Inserta un lead
 
   if ($err) {
     writeErrorLog ("INSERTLEAD CURL ERROR", $payload_data, $err); 
-  } else if ($curl_info['http_code'] != '200') {
+  } else if ($curl_info['http_code'] != '201') {
     writeErrorLog ("INSERTLEAD API ERROR", $payload_data, $response); 
   } else {
     writeLog ("INSERTLEAD API OK", $payload_data, $response);     
